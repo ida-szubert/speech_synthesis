@@ -3,7 +3,7 @@ title: Experiment: GitHub Pages & Markdown
 layout: page
 ---
 Waveform generation error in ["Durham"](Durham.wav) <br><br>
-POS tagging errors in ["MPS"](MPS.wav)<br><br>
+POS tagging errors in ["MPS"](MP.wav)<br><br>
 Pronunciation error in ["Worcestershire"](Worcestershire.wav)<br><br>
 Pronunciation errors in [ough-words](ough.wav)<br><br>
 Phrase break error in ["Washington, D.C."](save.wav)<br><br>
