@@ -1,0 +1,55 @@
+The table walked through the blue truth.
+The strong way drank the day.
+Draw the house and thefact.
+How does the day love the bright word?
+The plane closed the jish that lived.
+
+hectic
+
+Osborne addresses MPS after Lords tax credits defeat
+Beijing condemns provocative passage of US navy warship
+Childbirth time bomb as new mothers - and the midwife workforce - get older
+The grim, grisly world of historical surgery
+
+PLACES
+Durham
+Gloucester
+Worcestershire
+Missing diphone: sh_aer
+ diphone still missing, backing off: sh_aer
+ backed off: sh_aer -> #_aer
+ diphone still missing, backing off: #_aer
+ backed off: sh_aer -> #_#
+SIOD ERROR: unbound variable : Missing
+festival>  diphone still missing, backing off: sh_aer
+SIOD ERROR: unbound variable : diphone
+festival>  backed off: sh_aer -> #_aer
+SIOD ERROR: unbound variable : backed
+festival>  diphone still missing, backing off: #_aer
+SIOD ERROR: unbound variable : diphone
+festival>  backed off: sh_aer -> #_#
+
+WORDS
+anemone
+isthmus
+sixth
+kohlrabi
+no missing diphones
+
+OUGH
+enough, hough, rough, slough, tough, cough, trough, bough, drought, plough, dough, 
+furlough, though, bought, brought, ought, sought, thought, wrought, brougham, slough,
+through, borough, thorough, hiccough, hough, lough
+Missing diphone: oo_x
+ diphone still missing, backing off: oo_x
+ backed off: oo_x -> @_x
+ diphone still missing, backing off: @_x
+ backed off: oo_x -> #_x
+ diphone still missing, backing off: #_x
+ backed off: oo_x -> #_#
+Missing diphone: x_#
+ diphone still missing, backing off: x_#
+ backed off: x_# -> #_#
+
+kohlrabi
+(bc k id uncommon in onsets, and eu is also not a so common diphtong)
